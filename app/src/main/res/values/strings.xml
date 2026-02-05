@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="bad_connection_empty_cache">Кажется, у вас плохой интернет</string>
+    <string name="bad_connection_filled_cache">Плохое соединение. Данные взяты из кэша</string>
+    <string name="search_weather_by_city">Введите город для поиска</string>
+    <string name="error_search">Нет такого города</string>
+</resources>
